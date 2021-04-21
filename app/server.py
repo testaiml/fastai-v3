@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/file/d/1XTuWAvdDSqxsduCDpOEzgm2RqDNsA-GQ/view?usp=sharing'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1g6o_k48kdJFyCT0TGPb8jOpDZjIOleDC'
 export_file_name = 'export.pkl'
 
 classes = ['bulbasaur','charmander','pikachu','squirtle']
